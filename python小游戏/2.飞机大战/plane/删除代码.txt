@@ -1,0 +1,4 @@
+mixer = pygame.mixer
+        mixer.init(11025)
+ music = mixer.music
+
